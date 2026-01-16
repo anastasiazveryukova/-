@@ -41,5 +41,4 @@ HAproxy должен балансировать только тот http-тра�
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 <img width="949" height="573" alt="Снимок 1" src="https://github.com/user-attachments/assets/d66e4b4a-0be0-4540-a376-90f158ccbc5d" />
 
-https://github.com/anastasiazveryukova/-/tree/b1ce09edadc06b482a030e45c277aac66df21e29/2
-
+https://github.com/anastasiazveryukova/-/blob/8293a42ead1d5fbd7af6d22a7a7911c194c27586/2/haproxy.cfg
