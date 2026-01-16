@@ -33,7 +33,8 @@
 <img width="954" height="522" alt="Снимок" src="https://github.com/user-attachments/assets/424fbd3b-b8ff-4c5c-838c-7107571a76e9" />
 
 Конфигурационный файл haproxy.cfg
-https://raw.githubusercontent.com/anastasiazveryukova/-/refs/heads/main/1/haproxy.cfg
+
+https://github.com/anastasiazveryukova/-/blob/main/1/haproxy.cfg
 
 ### Задание 2
 
