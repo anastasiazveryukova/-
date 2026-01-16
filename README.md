@@ -32,7 +32,9 @@
 
 <img width="954" height="522" alt="Снимок" src="https://github.com/user-attachments/assets/424fbd3b-b8ff-4c5c-838c-7107571a76e9" />
 
-https://github.com/anastasiazveryukova/-/tree/b1ce09edadc06b482a030e45c277aac66df21e29/1
+Конфигурационный файл haproxy.cfg
+https://raw.githubusercontent.com/anastasiazveryukova/-/refs/heads/main/1/haproxy.cfg
+
 ### Задание 2
 
 Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -40,5 +42,5 @@ https://github.com/anastasiazveryukova/-/tree/b1ce09edadc06b482a030e45c277aac66d
 HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 <img width="949" height="573" alt="Снимок 1" src="https://github.com/user-attachments/assets/d66e4b4a-0be0-4540-a376-90f158ccbc5d" />
-
-https://github.com/anastasiazveryukova/-/blob/8293a42ead1d5fbd7af6d22a7a7911c194c27586/2/haproxy.cfg
+Конфигурационный файл haproxy.cfg
+https://raw.githubusercontent.com/anastasiazveryukova/-/refs/heads/main/2/haproxy.cfg
