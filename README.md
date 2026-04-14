@@ -72,10 +72,12 @@ pg_dump -U username sakila > sakiladb.sql
 ```
 Ссылка на документацию PostgreSQL, pg_dump
 https://www.postgresql.org/docs/current/app-pgdump.html
+
 Команда восстановления БД:
 ```
 pg_restore -d sakila sakiladb.sql
 ```
+
 Ссылка на документацию PostgreSQL, pg_restore
 https://www.postgresql.org/docs/current/app-pgrestore.html
 
@@ -98,4 +100,4 @@ mysqlbackup --defaults-file=/home/dbadmin/my.cnf \
 Ссылка на документацию MySQL
 https://dev.mysql.com/doc/mysql-enterprise-backup/8.4/en/mysqlbackup.incremental.html#meb-incremental-considerations
 
-![Название скриншота](ссылка на скриншот)`
+
